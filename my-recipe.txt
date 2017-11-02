@@ -1,0 +1,3 @@
+A new recipe
+I don’t really cook so I don’t really have a recipe to share. But I’m creating this new file so I can follow along the Udacity course on git and GitHub. 
+
